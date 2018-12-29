@@ -1,3 +1,3 @@
 # ability-scores
 
-Python scripts for D&D ability score statistics.
+Python scripts for D&D 5e dice statistics.
